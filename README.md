@@ -81,7 +81,9 @@ The project is developed using **Python in Google Colab** with data visualizatio
 
 ## 📷 Sample Outputs
 
-> *(Optional: Add screenshots of graphs, confusion matrix, or final output here)*
+> ![{3546207F-6973-4D24-A77E-7A80087FD15B}](https://github.com/user-attachments/assets/364b8ad5-ce77-456e-833b-d677093f7515)
+> ![{C6E3C0D1-E24A-4DC9-8843-3616D255A39C}](https://github.com/user-attachments/assets/790ebc26-dd99-4832-943b-dd012a73fb8a)
+
 
 ---
 
